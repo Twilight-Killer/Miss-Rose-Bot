@@ -1,8 +1,8 @@
 
 {
   "name": "Miss Rose",
-  "logo": "https://telegra.ph/file/48522f7be29b993a19e60.jpg",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "logo": "https://graph.org/trex-03-07-2",
+  "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/FayasKKD/Miss-Rose-Bot",
+  "repository": "hhttps://github.com/luffytaro-7/Miss-Rose-Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -18,15 +18,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "7010583697:AAFF5koxJP2bP7vCxNASJeg72MQKlyhqmFY"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": ""
+      "value": "6805772957"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": ""
+      "value": "kingtrex777"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -38,11 +38,11 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1002139199817"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": ""
+      "value": ["851088427" , "6805772957"]
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
