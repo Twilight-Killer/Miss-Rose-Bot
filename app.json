@@ -1,6 +1,6 @@
 
 {
-  "name": "Miss Rose",
+  "name": "MR.Wolfer",
   "logo": "https://graph.org/trex-03-07-2",
   "description": "Modular Telegram group management bot!",
   "keywords": [
@@ -50,7 +50,7 @@
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": ""
+      "value": ["851088427","1582000152" ,"6842937280" ,"1208746759" ]
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
@@ -58,7 +58,7 @@
     },
     "PORT": {
       "description": "Port to use for your webhooks",
-      "value": "8443"
+      "value": ""
     },
     "DEL_CMDS": {
       "description": "Whether to delete commands from users which don't have rights to use that command",
