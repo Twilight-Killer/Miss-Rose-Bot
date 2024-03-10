@@ -7,6 +7,7 @@ feedparser
 pyowm
 bs4
 lxml
+pip install --upgrade pip pip3 install --upgrade pip
 demjson
 PyLyrics
 wget
