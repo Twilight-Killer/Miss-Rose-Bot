@@ -7,7 +7,7 @@ feedparser
 pyowm
 bs4
 lxml
-pip3-24.0
+pip
 demjson
 PyLyrics
 wget
